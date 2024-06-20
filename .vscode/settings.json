@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "power.C": "cpp",
+        "sum.C": "cpp",
+        "read.C": "cpp",
+        "fact.C": "cpp",
+        "palin.C": "cpp",
+        "trans.C": "cpp"
+    }
+}
